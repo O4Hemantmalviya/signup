@@ -1,0 +1,53 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.Registerform{
+    max-width: 300px;
+    min-width: 300px;
+    max-height: 700px;
+    width: 30%;
+    height: 60%;
+    margin:30px auto;
+    background-color:#e6e6e6;
+    border-radius: 25px;
+    border: 1px solid black;
+    padding: 28px;
+}
+.Register{
+    text-align: center;
+    color:696969;
+    font-weight:700;
+}
+.Regbtn{
+    max-width: 300px;
+    min-width:250px;
+    width: 30%;
+    background-color:#32cd32;
+    border: 1px solid #32cd32;
+    height:32px ;
+    margin-top:13px;
+    color:#404040;
+    text-align: center;
+    
+    padding-bottom:27px;
+    border-radius: 10px;
+    font-weight:700;
+    font-size:18px;
+}
+.Regbtn:hover{
+    color:2F4F4F;
+}
+.Already{
+    text-align: center;
+  
+    color: #404040;
+    font-weight: 600;
+}
+.Already:hover{
+text-decoration: none;
+color: #404040;
+}

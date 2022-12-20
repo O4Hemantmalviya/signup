@@ -1,0 +1,30 @@
+.img1 {
+  height: 250px;
+  width: 253px;
+}
+.Detelisbtn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  font-weight: 700;
+  font-size: 15px;
+  margin-left: 50px;
+}
+.searcheading {
+  background-color: #003580;
+  color: white;
+  font-weight: 700;
+  padding: 20px;
+}
+.wheregoing {
+  border: 2px solid yellow;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.search {
+  border: none;
+  outline: none;
+}
